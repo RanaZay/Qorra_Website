@@ -1,0 +1,9 @@
+body {margin: 0; padding: 0 ; }
+*, html {
+    margin:0;
+    padding:0;  
+}
+@font-face {
+    font-family: Cairo;
+    src: url('static/Cairo-Regular.ttf');
+  }
